@@ -2,7 +2,7 @@
 Aygaz Makine Öğrenmesi Bootcampinde yapmaya çalıştığım projedir. Supervised ve unsupervised öğrenme tiplerini karşılaştırdım.
 
 Öncelikle projenin kaggle linki :
-https://www.kaggle.com/code/nezirerdinc/aygaz-ml-bootcamp
+[https://www.kaggle.com/code/nezirerdinc/aygaz-ml-bootcamp](https://www.kaggle.com/code/nezirerdinc/aygaz-ml-project/)
 
 Projeyi yaparken " US Accidents (2016 - 2023) " veri setini kullandım. Veri Seti linki : https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
